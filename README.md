@@ -1,11 +1,11 @@
 # ICO APP (Decentralized Crypto ICO App)
 
-ICO App is a Crypto ICO Web3 app (also known as DAPP) that allows user to buy newly created STKN Token (ERC20) in a decentralized manner by virtue of blockchain technology.
-This ICO App Smart Contract is deployed in Goerli TestNet Network.
+Bootstrapping App is a Crypto ICO Web3 app (also known as DAPP) that allows user to provide liquidity  created NOD Token (ERC20) in a decentralized manner by virtue of blockchain technology.
+This Community liquidity Bootstrapping  App Smart Contract is deployed in Goerli TestNet Network.
 
 ## Live Website
 
-https://cryptoicoapp.netlify.app/
+https://lp.doomer.ai
 
 ## Highlights
 

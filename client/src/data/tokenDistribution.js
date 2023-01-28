@@ -1,11 +1,11 @@
 const tokenDistribution = [
   {
-    name: "Pre Sale",
+    name: "Pre Community liquidity Bootstrapping ",
     tokens: 1500000,
     percentage: "15%",
   },
   {
-    name: "ICO Sale",
+    name: "Community liquidity Bootstrapping  Sale",
     tokens: 5000000,
     percentage: "50%",
   },

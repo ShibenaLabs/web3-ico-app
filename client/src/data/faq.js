@@ -1,8 +1,8 @@
 const faq = [
   {
-    question: "What is an ICO?",
+    question: "What is an Community liquidity Bootstrapping ?",
     answer:
-      "ICO Means Initial Coin Offering is a type of crowdfunding used as a form of capital for the Startup Companies selling their new cryptocurrencies/tokens in exchange for a well known crypto currencies like Ether.",
+      "Community liquidity Bootstrapping  is a type of crowdfunding used as a form of capital for the Startup Companies selling their new cryptocurrencies/tokens in exchange for a well known crypto currencies like Ether.",
   },
   {
     question: "What is HardCap?",

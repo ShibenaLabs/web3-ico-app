@@ -7,7 +7,7 @@ const Circle = () => {
     <>
       <div>
         <div className="flex flex-col justify-center items-center">
-          <div className="circle-text mb-3">Price</div>
+          <div className="circle-text mb-3">Investment</div>
           <div className="circle border-yellow-500">
             <div className="text-center">0.0001 Ether</div>
           </div>

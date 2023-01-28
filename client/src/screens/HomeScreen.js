@@ -13,7 +13,7 @@ const HomeScreen = () => {
       </div>
 
       <div className="flex justify-center items-center w-full">
-        {/* ICO Details */}
+        {/* Community liquidity Bootstrapping  Details */}
 
         <div className="flex flex-col w-full items-center md:mr-5">
           <div className="card mt-4">

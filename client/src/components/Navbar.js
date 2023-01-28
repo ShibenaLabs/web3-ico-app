@@ -8,7 +8,7 @@ const Navbar = () => {
         Home
       </Link>
       <Link to="/token" className="navbar-title">
-        Token
+        DOOMER Token
       </Link>
       <Link to="/transaction" className="navbar-title">
         Transaction

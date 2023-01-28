@@ -20,14 +20,14 @@ const FaqScreen = () => {
 
       <div className="text-red-500">
         Note:
-        <br /> This is just a demo ICO site and we will be selling tokens for
+        <br /> This is just a demo Community liquidity Bootstrapping  site and we will be selling tokens for
         test ether (from goerli network) not for real ether (means not having
         any real value).
       </div>
       <br className="md:hidden" />
       <div className="text-red-500">
-        Since this is a demo ICO we don’t like to lock tokens in ICO Contract
-        for any amount of time and Running ICO for very long time i.e 1 yr.
+        Since this is a demo Community liquidity Bootstrapping  we don’t like to lock tokens in ICO Contract
+        for any amount of time and Running Community liquidity Bootstrapping  for very long time i.e 1 yr.
       </div>
     </div>
   );

@@ -15,7 +15,7 @@ const FaucetScreen = () => {
           </li>
           <li className="faucet-text">
             Here are the working faucets for getting free Goerli Ether for
-            testing this ICO Website:
+            testing this Community liquidity Bootstrapping  Website:
           </li>
           <li className="mb-3">
             <a

@@ -39,7 +39,7 @@ const SaleEnds = () => {
     <div className="sale-ends-container">
       <div className="card text-center">
         <div className="p-10">
-          <div>TOKEN SALE ENDS IN</div>
+          <div>Community liquidity Bootstrapping  ENDS IN</div>
 
           {/* Time Limit*/}
           <div className="flex m-4 gap-3 justify-center">
